@@ -1,7 +1,5 @@
 # Semantic-Textual-Similarity
 
-#### Dipankar Saha &emsp;&emsp;&emsp;&emsp;&emsp; Shivam Puri &emsp;&emsp;&emsp;&emsp;&emsp;Vaibhav Gupta
-
 
 ## Abstract
 Semantic Textual Similarity (STS) measures the meaning similarity of sentences. Applications of this task include machine translation, summarization, text generation, question answering, short answer grading, semantic search, dialogue and conversational systems. We developed Random Forest Regression model with various features. We have also trained sentence semantic representations with BiLSTM and BERT.
